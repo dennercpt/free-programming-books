@@ -166,6 +166,7 @@
 
 #### Node.js
 
+* [MongoDB para iniciantes em NoSQL](http://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/)
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Primeiros passos com Node.js](http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
